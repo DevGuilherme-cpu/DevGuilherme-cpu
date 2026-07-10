@@ -68,7 +68,7 @@ Me chamo Guilherme Landin, tenho 20 anos e sou natural do Tocantins. Concluí o 
   title="Django"
   width="30px"
   style="padding-right: 10px;"
-  src="[https://jsdelivr.net](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-original.svg)"
+  src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/24/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-filled-tal-revivo.png" alt="external-django-a-high-level-python-web-framework-   that-encourages-rapid-development-logo-filled-tal-revivo"
 />
 
 <br/>
