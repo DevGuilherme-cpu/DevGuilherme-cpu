@@ -62,6 +62,13 @@ Me chamo Guilherme Landin, tenho 20 anos e sou natural do Tocantins. Concluí o 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<img
+    align="left"
+    alt="Django"
+    title="Django"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-original.svg"
 
 <br/>
 <br/>
