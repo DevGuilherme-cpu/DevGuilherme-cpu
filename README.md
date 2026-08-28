@@ -17,7 +17,7 @@ Gosto de tecnologia, de resolver problemas com código e de aprender coisas nova
 - Atualmente trabalhando com **Python, Django e FastAPI**
 - Aprofundando conhecimentos em **PostgreSQL** e **Docker**
 - Me chame para falar sobre backend, APIs ou boas práticas de código
-- Como me encontrar: [LinkedIn](#) · [E-mail](mailto:seuemail@exemplo.com)
+- Como me encontrar: [E-mail](guilandin01@gmail.com)
 
 ---
 
