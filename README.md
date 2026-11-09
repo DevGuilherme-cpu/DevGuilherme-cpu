@@ -10,7 +10,7 @@
 ### Sobre mim
 
 Me chamo **Guilherme Landin**, tenho 20 anos e sou natural do Tocantins.
-Concluí o ensino médio no Cem Tiradentes e atualmente curso **Análise e Desenvolvimento de Sistemas** na FASEC (3º período).
+Concluí o ensino médio no Cem Tiradentes e atualmente curso **Análise e Desenvolvimento de Sistemas** na FASEC (4º período).
 
 Gosto de tecnologia, de resolver problemas com código e de aprender coisas novas todos os dias. Também compartilho um pouco do meu dia a dia no Instagram, no perfil [**@guilhermelandin**](https://instagram.com/guilhermelandin).
 
